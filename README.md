@@ -10,11 +10,10 @@ A PHP Web Application to manage multiple cPanel Servers.
 a) Linux OS  
 b) Web Server (Apache preferred)  
 c) PHP v5.3.x  
-	c, a) ioncube loader  
+	c, a) libxml support  
 	c, b) support for mysql database  
 	c, c) curl with ssl support  
 	c, d) json support  
-	c, e) libxml support  
 d) MySQL v5.1 or above  
 e) Disk Space: 10MB  
 
