@@ -1,0 +1,10 @@
+body {
+        padding-top: 60px;
+        padding-bottom: 0px;
+      }
+.sidebar-nav {
+        padding: 9px 0;
+      }
+.nav-hidden {
+		display:none;
+	}
