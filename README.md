@@ -1,6 +1,8 @@
 
 # Web Host Account Manager ( www.whamcp.com / whamcp at gmail.com )
 
+A PHP Web Application to manage multiple cPanel Servers.  
+
 ## INSTALLATION GUIDE
 
 ### 1. REQUIREMENTS
