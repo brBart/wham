@@ -186,8 +186,6 @@ class Viewserver extends CI_Controller {
         }
     
     public function whm($s_id=0) {
-        Essentials::checkIfServerIsActive($s_id);
-        
         $args = array();
         $args["s_id"] = $s_id;
         

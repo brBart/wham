@@ -32,8 +32,6 @@ class Cpanel extends CI_Controller {
         if ($user == "" or $user == "root")
             exit;
         
-        Essentials::checkIfServerIsActive($s_id);
-        
         $args = array();
         
         $sql = "SELECT * FROM server WHERE s_id = ?";
